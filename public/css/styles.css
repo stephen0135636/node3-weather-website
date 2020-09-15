@@ -40,3 +40,9 @@ header a{
     width: 250px;
 }
 
+button{
+    background-color: gray;
+    border: none;
+    padding: 4px;
+    color: white;
+}
